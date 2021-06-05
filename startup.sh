@@ -8,10 +8,9 @@
 
 nowtime=$(date)
 echo "
-FridayUserBot
+ReaperX UserBot
 
-(C) @FridayOT
-Powered By @DevsExpo.
+Powered By @reapr_x.
 Time : $nowtime
 "
 update_and_install_packages () {
